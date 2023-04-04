@@ -1,3 +1,3 @@
 # react-basics
 
-[Try it out](https://www.google.com)
+[Try it out](react-basics-kappa.vercel.app)
