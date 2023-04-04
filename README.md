@@ -1,4 +1,3 @@
 # react-basics
 
-Demo:
-react-basics-kappa.vercel.app
+[Try it out](https://www.google.com)
